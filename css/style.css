@@ -1,7 +1,5 @@
 
-#blog-title {
-  padding: 24px 0;
-}
+
 
 #title {
   overflow: hidden;
@@ -9,18 +7,6 @@
   white-space: nowrap;
 }
 
-#title a {
-  display: block;
-  width: 422px;
-  height: 93px;
 
-  background-image: url(https://gadget-r.github.io/assets/images/logo.png);
-  background-repeat: no-repeat;
-}
-
-
-#blog-description {
-  padding: 6px 0 0 8px;
-}
 
 

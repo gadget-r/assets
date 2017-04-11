@@ -1,4 +1,19 @@
 
-h1 {
-  color: #f00;
+#blog-title {
+  padding: 24px 0;
+}
+
+#title a {
+  display: block;
+  width: 320px;
+  height: 70px;
+
+  background-image: url(https://gadget-r.github.io/assets/images/logo.png);
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+
+
+#blog-description {
+  padding: 4px 0 0 8px;
 }
