@@ -1,4 +1,8 @@
 
+#blog-title {
+  padding: 20px 0;
+}
+
 #title {
   overflow: hidden;
   text-indent: 100%;
@@ -12,4 +16,8 @@
 
   background-image: url(https://gadget-r.github.io/assets/images/logo.png);
   background-repeat: no-repeat;
+}
+
+#blog-description {
+  padding: 6px 0 0 8px;
 }
