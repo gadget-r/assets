@@ -21,3 +21,16 @@
 #blog-description {
   padding: 6px 0 0 8px;
 }
+
+#main {
+  float: left;
+}
+
+#box2 {
+  float: right;
+}
+
+.entry {
+  border: 0;
+  border-radius: 0;
+}
