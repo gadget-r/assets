@@ -1,4 +1,9 @@
 
-h1 {
-  color: #fff;
+.header-blog-icon {
+  display: none;
+}
+
+#title a {
+  width: 211px;
+  height: 47px;
 }

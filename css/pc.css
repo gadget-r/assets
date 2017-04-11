@@ -4,13 +4,8 @@
 }
 
 #title a {
-  display: block;
   width: 320px;
   height: 70px;
-
-  background-image: url(https://gadget-r.github.io/assets/images/logo.png);
-  background-repeat: no-repeat;
-  background-size: 100% auto;
 }
 
 
