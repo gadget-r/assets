@@ -12,3 +12,9 @@
 #blog-description {
   padding: 4px 0 0 8px;
 }
+
+
+
+.hatena-module-body .circle-urllist .circle-image {
+  float: none;
+}
