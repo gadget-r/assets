@@ -4,7 +4,8 @@
 }
 
 #title a {
-  width: 320px;
+  width: 100%;
+  max-width: 320px;
   height: 70px;
 }
 
@@ -17,4 +18,15 @@
 
 .hatena-module-body .circle-urllist .circle-image {
   float: none;
+}
+
+
+
+
+@media (max-width: 960px) {
+
+  #blog-title-content {
+    text-align: center;
+  }
+
 }
