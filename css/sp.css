@@ -9,6 +9,11 @@
   margin: 0 auto;
 }
 
+#blog-description {
+  background: initial;
+  border: 0;
+}
+
 .entry-content h2 {
   margin-top: 3em!important;
 }
