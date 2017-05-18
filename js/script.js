@@ -3,4 +3,5 @@ var timer = setInterval(function() {
         $("#relateArticle").html($(".hatena-module-related-entries").html());
         clearInterval(timer);
     }
+    
 }, 1000);
