@@ -20,7 +20,9 @@
 }
 
 
-
+.hatena-module-related-entries {
+  display: none;
+}
 
 @media (max-width: 959px) {
 
