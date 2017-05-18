@@ -35,6 +35,18 @@
 
 
 
+/* footer 関連記事 */
+
+#relateArticle ul li {
+  overflow: hidden;
+  zoom: 1;
+}
+
+#relateArticle ul li img {
+  width: 30%;
+}
+
+
 
 @media (max-width: 959px) {
 
