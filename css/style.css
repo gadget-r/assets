@@ -31,6 +31,13 @@ h3 {
 }
 
 
+#blog-description {
+  background: initial;
+  border: 0;
+  padding: 0;
+}
+
+
 /* カエレバ */
 
 .kaerebalink-box {
