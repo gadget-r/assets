@@ -6,6 +6,9 @@
 #title a {
   width: 320px;
   height: 70px;
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 
