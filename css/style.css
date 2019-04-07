@@ -5,6 +5,10 @@
   background-image: url(https://gadget-r.github.io/assets/images/logo.png);
   background-repeat: no-repeat;
   background-size: 100% auto;
+
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 /* カエレバ */
