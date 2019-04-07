@@ -20,11 +20,11 @@
 }
 
 .kaerebalink-box + .kaerebalink-box {
-  border-top: 0;
+  border-top: 0!important;
 }
 
 .kaerebalink-name {
-  margin-bottom: 4px;
+  margin-bottom: 4px!important;
 }
 
 .kaerebalink-name a:first-child {
