@@ -20,7 +20,7 @@
 }
 
 .kaerebalink-box + .kaerebalink-box {
-  border-top: 0!important;
+  border-top: 0;
 }
 
 .kaerebalink-name {
@@ -34,7 +34,7 @@
 .kaerebalink-powered-date {
   font-size: 10px!important;
   color: #ddd;
-  margin-top: 0;
+  margin-top: 0!important;
 }
 
 .kaerebalink-powered-date a {
