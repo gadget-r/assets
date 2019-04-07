@@ -16,7 +16,7 @@
 }
 
 .kaerebalink-box + .kaerebalink-box {
-  border-bottom: 0;
+  border-top: 0;
 }
 
 .kaerebalink-powered-date {
