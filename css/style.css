@@ -19,7 +19,19 @@
   border-top: 0;
 }
 
+.kaerebalink-name {
+  margin-bottom: 20px!important;
+}
+
+.kaerebalink-name + a {
+  line-height: 1.7;
+}
+
 .kaerebalink-powered-date {
   font-size: 10px!important;
-  color: #ccc;
+  color: #ddd;
+}
+
+.kaerebalink-powered-date a {
+  color: #ddd;
 }
