@@ -41,27 +41,3 @@
   padding-top: 4px!important;
   padding-bottom: 4px!important;
 }
-
-
-
-
-/* footer 関連記事 */
-
-#relateArticle ul li {
-  overflow: hidden;
-  zoom: 1;
-}
-
-#relateArticle ul li img {
-  width: 20%;
-}
-
-
-
-@media (max-width: 959px) {
-
-  #blog-title-content {
-    text-align: center;
-  }
-
-}
