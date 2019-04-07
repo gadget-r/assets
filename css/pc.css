@@ -9,10 +9,10 @@
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
+}
 
-  @media screen and (min-width: 991px) {
-    margin: 0 auto;
-  }
+@media screen and (min-width: 991px) {
+  margin: 0 auto;
 }
 
 
