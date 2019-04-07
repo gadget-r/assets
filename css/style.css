@@ -1,12 +1,4 @@
 
-
-
-#title {
-  overflow: hidden;
-  text-indent: 100%;
-  white-space: nowrap;
-}
-
 #title a {
   display: block;
   
@@ -15,31 +7,7 @@
   background-size: 100% auto;
 }
 
-
-
-h2 {
-  border-bottom: 2px solid #f00;
-  background-color: #ffe7e7;
-  padding: 6px 10px;
-  font-weight: bold;
-}
-
-h3 {
-  border-bottom: 2px solid #f00;
-  padding: 4px 0;
-  font-weight: bold;
-}
-
-
-#blog-description {
-  background: initial;
-  border: 0;
-  padding: 0;
-}
-
-
 /* カエレバ */
-
 .kaerebalink-box {
   border-top: 1px solid #e4e4e4;
   border-left: 0;
@@ -47,12 +15,7 @@ h3 {
   padding: 20px 0;
 }
 
-.kaerebalink-box:last-child {
-  border-bottom: 1px solid #e4e4e4;
-}
-
 .kaerebalink-powered-date {
   font-size: 10px!important;
   color: #ccc;
 }
-
