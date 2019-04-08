@@ -24,3 +24,9 @@
 #relateArticle .related-entries-image {
   width: 140px;
 }
+
+/* 参加グループ（サイドバー） */
+.hatena-module-circles li {
+  display: flex;
+  align-items: center;
+}
