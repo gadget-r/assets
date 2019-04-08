@@ -12,3 +12,7 @@
 .entry-content h2 {
   margin-top: 3em!important;
 }
+
+.entry-content p {
+  margin: 1em 0;
+}
