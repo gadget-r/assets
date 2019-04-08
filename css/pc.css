@@ -20,3 +20,7 @@
 }
 
 
+/* 関連記事 */
+#relateArticle .related-entries-image {
+  width: 140px;
+}
