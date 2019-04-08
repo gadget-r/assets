@@ -35,6 +35,6 @@
 
 /* 参加グループ（サイドバー） */
 .hatena-module-circles li {
-  display: flex;
+  display: flex!important;
   align-items: center;
 }
