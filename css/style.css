@@ -21,6 +21,22 @@
   padding-left: 10px;
 }
 
+/* マーカー */
+.marker-red {
+  background: linear-gradient(transparent 75%, #ff9393 75%);
+  font-weight:bold;
+}
+
+.marker-blue {
+  background: linear-gradient(transparent 75%, #9eceff 75%);
+  font-weight:bold;
+}
+
+.marker-yellow {
+  background: linear-gradient(transparent 75%, #fff799 75%);
+  font-weight:bold;
+}
+
 /* カエレバ */
 .kaerebalink-box {
   border: 1px solid #e4e4e4;
